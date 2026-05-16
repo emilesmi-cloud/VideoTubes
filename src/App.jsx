@@ -9,7 +9,7 @@ import { CATEGORIES } from './data';
 
 const supabase = createClient(
   'https://hrwnqheunpypsygvhsky.supabase.co',
-  'COLLE_TA_CLÉ_ICI'
+  'sb_publishable_Vry3JeJHenwyYp3vBD3zhw_PG-0gFye'
 );
 
 export default function App() {
